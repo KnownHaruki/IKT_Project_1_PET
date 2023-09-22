@@ -1,4 +1,4 @@
 # IKT_Project_1_PET
 
-Tuteeel :)
-:p
+A school project
+Team: Tutels
