@@ -3,7 +3,25 @@ body {
     display: flex;
     flex-direction: column;
     background-color: wheat;
+    overflow-x: hidden;
 }
+
+header {
+    background-image: url(#.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 footer {
     margin-top: auto;
+}
+
+.pic {
+    max-width: 400px;
+    width: 100%;
+    float: right;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }

@@ -1,3 +1,94 @@
-body {
+html, body {
+    height: 100%;
+    display:block;
+    margin: 0;
+    padding: 0;
     background-color: wheat;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+#topper {
+    text-align: center;
+    font-size: 3vh;
+}
+h3 {
+    font-size: 3vh;
+    padding-top: 8vh;
+}
+p {
+    font-size: 2vh;
+    padding-top: 0vh
+}
+nav {
+    height: 4vh;
+    width: 100%;
+}
+
+a {
+    width: 100%;
+}
+a:link {
+    color: lightblue;
+    text-decoration: none;
+}
+a:visited {
+    color: lightblue;
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+    text-decoration: none;
+}
+a:active {
+    color: lightblue;
+    text-decoration: none;
+}
+
+#stdiv {
+    background-image: url(../Sources/temp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.3vh;
+    height: 23.625vh;
+    border-radius: 1vh;
+    vertical-align: middle;
+    float: center;
+    text-align: center;
+}
+#nddiv {
+    background-image: url(../Sources/temp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.3vh;
+    height: 23.625vh;
+    border-radius: 1vh;
+    vertical-align: middle;
+    float: center;
+    text-align: center;
+}
+#rddiv {
+    background-image: url(../Sources/akita_sources/_DSF1963.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.3vh;
+    height: 23.625vh;
+    border-radius: 1vh;
+    vertical-align: middle;
+    float: center;
+    text-align: center;
+}
+#thdiv {
+    background-image: url(../Sources/temp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0.3vh;
+    height: 23.625vh;
+    border-radius: 1vh;
+    vertical-align: middle;
+    float: center;
+    text-align: center;
 }
