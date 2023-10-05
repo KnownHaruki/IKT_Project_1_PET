@@ -21,6 +21,9 @@ footer {
     max-width: 400px;
     width: 100%;
     float: right;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+section {
+    margin-bottom: 1vh;
 }
