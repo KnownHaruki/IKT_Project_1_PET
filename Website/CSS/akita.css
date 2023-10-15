@@ -3,7 +3,6 @@ body {
     display: flex;
     flex-direction: column;
     background-color: wheat;
-    overflow-x: hidden;
 }
 
 header {
