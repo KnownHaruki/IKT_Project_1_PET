@@ -6,10 +6,11 @@ body {
 }
 
 header {
-    background-image: url(#.jpg);
+    background-image: url(../Sources/nemet_sources/IMG_2588.JPG);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
 }
 
 footer {
@@ -20,8 +21,8 @@ footer {
     max-width: 400px;
     width: 100%;
     float: right;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
 }
 section {
     margin-bottom: 1vh;

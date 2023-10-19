@@ -28,11 +28,11 @@ a {
     width: 100%;
 }
 a:link {
-    color: lightblue;
+    color: rgb(18, 159, 206);
     text-decoration: none;
 }
 a:visited {
-    color: lightblue;
+    color: rgb(18, 159, 206);
     text-decoration: none;
 }
 a:hover {
@@ -40,7 +40,7 @@ a:hover {
     text-decoration: none;
 }
 a:active {
-    color: lightblue;
+    color: rgb(18, 159, 206);
     text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ a:active {
     text-align: center;
 }
 #nddiv {
-    background-image: url(../Sources/temp.png);
+    background-image: url(../Sources/dobermann_sources/dobermann_7.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -81,7 +81,7 @@ a:active {
     text-align: center;
 }
 #thdiv {
-    background-image: url(../Sources/temp.png);
+    background-image: url(../Sources/dogs.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
